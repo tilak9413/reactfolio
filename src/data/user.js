@@ -3,6 +3,7 @@ const INFO = {
 		title: "Reactfolio by truethari",
 		name: "Tharindu N.",
 		email: "kumartilak2948@gmail.com",
+		tk:"hello",
 		logo: "../logo.png",
 	},
 
